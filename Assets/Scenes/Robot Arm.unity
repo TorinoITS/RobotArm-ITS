@@ -1777,12 +1777,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 256714069}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -1796,7 +1790,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 256714069}
@@ -1811,6 +1805,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
@@ -3297,12 +3297,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 737034315}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -3316,7 +3310,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 737034315}
@@ -3331,6 +3325,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
@@ -4767,12 +4767,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1370609407}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -4786,7 +4780,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1370609407}
@@ -4801,6 +4795,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
@@ -5660,12 +5660,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 256714069}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -5679,7 +5673,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 256714069}
@@ -5694,6 +5688,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
@@ -6002,12 +6002,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1370609407}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -6021,7 +6015,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1370609407}
@@ -6036,6 +6030,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
@@ -7373,12 +7373,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 685275562}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -7392,7 +7386,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 685275562}
@@ -7407,6 +7401,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
@@ -9937,12 +9937,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 737034315}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -9956,7 +9950,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 737034315}
@@ -9971,6 +9965,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
@@ -11549,12 +11549,6 @@ MonoBehaviour:
       m_Calls: []
   _whenHover:
     m_PersistentCalls:
-      m_Calls: []
-  _whenUnhover:
-    m_PersistentCalls:
-      m_Calls: []
-  _whenSelect:
-    m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 685275562}
         m_TargetAssemblyTypeName: RobotJointController, Assembly-CSharp
@@ -11568,7 +11562,7 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-  _whenUnselect:
+  _whenUnhover:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 685275562}
@@ -11583,6 +11577,12 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
+  _whenSelect:
+    m_PersistentCalls:
+      m_Calls: []
+  _whenUnselect:
+    m_PersistentCalls:
+      m_Calls: []
   _whenMove:
     m_PersistentCalls:
       m_Calls: []
