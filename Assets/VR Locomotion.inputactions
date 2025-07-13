@@ -1,0 +1,34 @@
+{
+    "name": "VR Locomotion",
+    "maps": [
+        {
+            "name": "Locomotion",
+            "id": "e36a2163-84e6-43e0-abc0-7b02d3f52750",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Value",
+                    "id": "2b94429b-a9d2-48d9-88ff-c3845eddbbc0",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "34def65e-896c-4394-b73e-2caaafef3063",
+                    "path": "<XRController>{LeftHand}/{Primary2DAxis}",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
