@@ -227,7 +227,7 @@ GameObject:
   - component: {fileID: 37794259}
   - component: {fileID: 37794258}
   - component: {fileID: 37794257}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Capsule (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -295,7 +295,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 220813334f5036c4db568b877d07ecb4, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1934,7 +1934,7 @@ GameObject:
   m_Component:
   - component: {fileID: 256714068}
   - component: {fileID: 256714069}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Joint1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3931,6 +3931,7 @@ GameObject:
   m_Component:
   - component: {fileID: 649201468}
   - component: {fileID: 649201467}
+  - component: {fileID: 649201469}
   m_Layer: 0
   m_Name: Directional Light
   m_TagString: Untagged
@@ -4018,6 +4019,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!114 &649201469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 649201466}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Version: 3
+  m_UsePipelineSettings: 1
+  m_AdditionalLightsShadowResolutionTier: 2
+  m_LightLayerMask: 1
+  m_RenderingLayers: 1
+  m_CustomShadowLayers: 0
+  m_ShadowLayerMask: 1
+  m_ShadowRenderingLayers: 1
+  m_LightCookieSize: {x: 1, y: 1}
+  m_LightCookieOffset: {x: 0, y: 0}
+  m_SoftShadowQuality: 0
 --- !u!1 &672357155
 GameObject:
   m_ObjectHideFlags: 0
@@ -4139,7 +4163,7 @@ GameObject:
   m_Component:
   - component: {fileID: 685275561}
   - component: {fileID: 685275562}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Base
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5034,7 +5058,7 @@ GameObject:
   m_Component:
   - component: {fileID: 737034314}
   - component: {fileID: 737034315}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Joint3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5504,7 +5528,7 @@ GameObject:
   - component: {fileID: 815468849}
   - component: {fileID: 815468848}
   - component: {fileID: 815468847}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Capsule (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5572,7 +5596,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: e5ef0a0a8352d524588d579244a516c0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -6839,7 +6863,7 @@ GameObject:
   - component: {fileID: 955149279}
   - component: {fileID: 955149278}
   - component: {fileID: 955149277}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6905,7 +6929,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 15e74d2152083ff488d4236ab5fb40ba, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8697,7 +8721,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1370609406}
   - component: {fileID: 1370609407}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Joint2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9391,7 +9415,7 @@ GameObject:
   - component: {fileID: 1459145681}
   - component: {fileID: 1459145680}
   - component: {fileID: 1459145679}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Capsule
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -9459,7 +9483,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 1c2e87b2360f4314cadd8ac9f4bb2dbc, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10344,7 +10368,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 1ae44dbfad2f82e46bd648aafb84adc0, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -10576,7 +10600,7 @@ GameObject:
   - component: {fileID: 1740066802}
   - component: {fileID: 1740066801}
   - component: {fileID: 1740066800}
-  m_Layer: 6
+  m_Layer: 0
   m_Name: Cylinder
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -10644,7 +10668,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 31321ba15b8f8eb4c954353edc038b1d, type: 2}
+  - {fileID: 2100000, guid: 186e1875c7ac5a64897ea21ff5d77549, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
